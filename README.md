@@ -3,4 +3,4 @@
 -
 
 Репозиторий предназначен для концептуализации языка программирования Metalang.\
-Вся документация на русском языке доступна тут: [Metalang]([docs](https://aycon-distributor.gitbook.io/metalang)).
+Вся документация на русском языке на странице [Metalang](https://aycon-distributor.gitbook.io/metalang).
