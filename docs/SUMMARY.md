@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Hello page](README.md)
+* [Metalang](README.md)
