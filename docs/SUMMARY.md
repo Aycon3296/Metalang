@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Metalang](README.md)
+* [Содержание](README.md)
+* [Цели и приоритеты](celi-i-prioritety.md)
