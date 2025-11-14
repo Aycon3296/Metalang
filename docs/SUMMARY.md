@@ -15,7 +15,7 @@
   * [Слои спецификаций](osnovy-dialektov-yazykov/sloi-specifikacii/README.md)
     * [Абстрактный слой](osnovy-dialektov-yazykov/sloi-specifikacii/abstraktnyi-sloi.md)
     * [Семантический слой](osnovy-dialektov-yazykov/sloi-specifikacii/semanticheskii-sloi.md)
-    * [Исполнительный слой](osnovy-dialektov-yazykov/sloi-specifikacii/ispolnitelnyi-sloi.md)
+    * [Прикладной слой](osnovy-dialektov-yazykov/sloi-specifikacii/prikladnoi-sloi.md)
 * [Погружение в работу](pogruzhenie-v-rabotu/README.md)
   * [Абстрактный слой](pogruzhenie-v-rabotu/abstraktnyi-sloi/README.md)
     * [Минимальное исполняющее устройство](pogruzhenie-v-rabotu/abstraktnyi-sloi/minimalnoe-ispolnyayushee-ustroistvo.md)
